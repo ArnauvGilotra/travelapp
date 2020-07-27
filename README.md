@@ -2,8 +2,6 @@
 
 This is a UI / Ux concept for a booking app
 
-<img src="images/booking.jpg">
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
